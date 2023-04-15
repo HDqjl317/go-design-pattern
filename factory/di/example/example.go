@@ -1,7 +1,7 @@
 /*
  * @Author: jiale_quan jiale_quan@ustc.edu
- * @Date: 2023-04-15 11:18:18
- * @LastEditTime: 2023-04-15 11:19:45
+ * @Date: 2023-04-14 23:45:18
+ * @LastEditTime: 2023-04-15 11:22:12
  * @Description:
  * Copyright © jiale_quan, All Rights Reserved
  */
@@ -9,7 +9,7 @@ package main
 
 import (
 	"fmt"
-	di "github.com/HDqjl317/go-design-pattern/factory/di"
+	"go-design-pattern/factory/di"
 )
 
 type A struct {
